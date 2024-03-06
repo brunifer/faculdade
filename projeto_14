@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bruna Fernandes - Página Inicial</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
+  <!-- Cabeçalho -->
+  <header class="bg-dark text-white py-4">
+    <div class="container">
+      <h1>Bruna Fernandes</h1>
+      <nav>
+        <ul class="nav">
+          <li class="nav-item"><a href="#" class="nav-link">Sobre mim</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Contato</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Notícias</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Corpo -->
+  <section class="py-5">
+    <div class="container">
+      <h2>Sobre mim</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit sapien et fermentum feugiat. Nulla a semper est. Aliquam convallis dui eget nulla pulvinar, et vulputate nulla molestie.</p>
+    </div>
+  </section>
+
+  <section class="bg-light py-5">
+    <div class="container">
+      <h2>Contato</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit sapien et fermentum feugiat. Nulla a semper est. Aliquam convallis dui eget nulla pulvinar, et vulputate nulla molestie.</p>
+    </div>
+  </section>
+
+  <section class="py-5">
+    <div class="container">
+      <h2>Notícias</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit sapien et fermentum feugiat. Nulla a semper est. Aliquam convallis dui eget nulla pulvinar, et vulputate nulla molestie.</p>
+    </div>
+  </section>
+
+  <!-- Rodapé -->
+  <footer class="bg-dark text-white py-4">
+    <div class="container">
+      <p class="mb-0 text-center">© 2024 Bruna Fernandes</p>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
